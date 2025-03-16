@@ -1,6 +1,6 @@
 ### NotasEDPs
 #### Este repositorio fue creado con fines didacticos y como material de apoyo a los cursos de
-#### Ecuaciones Diferenciales Parciales impartidos en la Facultad de Ciencias.
+#### Ecuaciones Diferenciales Parciales impartidos en la Facultad de Ciencias, UNAM.
  
 **Objetivos:**
 - Mostrar algunos fonómenos que surgen en el estudio de las Ecuaciones Diferenciales Parciales.
