@@ -7,3 +7,5 @@
 - Resaltar la importancia de los cálculos numérico en el análisis cualitativo de las EDP's.
 - Facilitar la comparación entre los resultados teóricos y los computacionales. 
 - Motivar el uso de lenguajes de programación como herramienta de estudio.
+
+#### Para ejecutar los notebooks dar click en el enlace de colab.
