@@ -9,4 +9,3 @@
 - Motivar el uso de lenguajes de programación como herramienta de estudio.
 
 #### Para ejecutar los notebooks dar click en el enlace de colab.
-Ensayo
